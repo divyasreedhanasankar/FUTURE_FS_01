@@ -12,7 +12,7 @@ This is my personal portfolio website built with:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/divyasreedhanasankar/divyasree-portfolio.git
+   git clone https://github.com/divyasreedhanasankar/FUTURE_FS_01.git
 Navigate to the project directory:
 
 cd divyasree-portfolio
